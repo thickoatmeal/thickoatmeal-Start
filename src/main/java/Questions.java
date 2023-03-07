@@ -9,7 +9,7 @@ public class Questions {
          * 
          * How many variables are in the class "Vehicle"?
          */
-        return 0;
+        return 3;
     }
 
     int question2(){
